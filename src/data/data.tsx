@@ -86,7 +86,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: 'src\images\Resume(Dimtiri Gopaul).pdf',
+      href: '../images/Resume(Dimtiri Gopaul).pdf',
       text: 'Resume',
       primary: true,
       Icon: ArrowDownTrayIcon,
