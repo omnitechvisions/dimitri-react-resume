@@ -45,7 +45,7 @@ import {
  */
 export const homePageMeta: HomepageMeta = {
   title: 'Dimitri React Resume',
-  description: "Site built with React, Next.js and Typescrpt by Dimitri",
+  description: "A personal resume webiste. Site built with React, Next.js and Typescript by Dimitri",
 };
 
 /**
@@ -86,7 +86,7 @@ export const heroData: Hero = {
   ),
   actions: [
     {
-      href: '/assets/resume.pdf',
+      href: 'src\images\Resume(Dimtiri Gopaul).pdf',
       text: 'Resume',
       primary: true,
       Icon: ArrowDownTrayIcon,
@@ -108,10 +108,10 @@ export const aboutData: About = {
   to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
   in.`,
   aboutItems: [
-    {label: 'Location', text: 'Couv, BC', Icon: MapIcon},
+    {label: 'Location', text: 'Exchange Housing, Couva, Trinidad', Icon: MapIcon},
     {label: 'Age', text: '24', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Trinidadian / Canadian', Icon: FlagIcon},
-    {label: 'Interests', text: 'Emerging Technologies, Motorcycles, Clarinet, Fortnite', Icon: SparklesIcon},
+    {label: 'Interests', text: 'Emerging Technologies, Motorcycles, Clarinet, Swimming, Competetive Gaming', Icon: SparklesIcon},
     {label: 'Study', text: 'St.Marys College, University of West Indies', Icon: AcademicCapIcon},
     {label: 'Current Employment', text: 'Republic Bank', Icon: BuildingOffice2Icon},
   ],
