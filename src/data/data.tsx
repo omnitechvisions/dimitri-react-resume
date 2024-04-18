@@ -315,7 +315,7 @@ export const education: TimelineItem[] = [
     date: 'May 2019',
     location: 'St.Marys College',
     title: 'Graduated A-Levels',
-    content: <p><strong className="text-stone-100">The Old Boys of White and Blue! </strong>Achieved a solid foundation in business-related disciplines
+    content: <p><strong>The Old Boys of White and Blue! </strong>Achieved a solid foundation in business-related disciplines
                 through A-Levels coursework in Business, Accounting, and Economics. Enhanced my analytical and critical thinking skills through in-depth studies,
                 which have equipped me with a strong understanding of financial principles and economic theory.
                 Additionally, my coursework in Caribbean Studies and Communication Studies broadened my perspective on cultural and societal dynamics,
